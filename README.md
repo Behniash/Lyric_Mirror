@@ -12,7 +12,7 @@
 
 <br/>
 
-![portrait example](docs/portrait_example.png)
+![portrait example](docs/portrait.png)
 
 <br/>
 
@@ -91,11 +91,11 @@ lyric_mirror/
 │
 ├── app.py                  # Gradio UI — start here
 │
-├── week1_transcribe.py     # Whisper: audio -> transcript
-├── week2_nlp.py            # spaCy: keywords, themes, sentiment
-├── week3_audio.py          # librosa: tempo, energy, key, valence
-├── week4_merge.py          # merge NLP + audio -> portrait dict
-├── week56_portrait.py      # matplotlib: visual portrait generator
+├── transcribe.py     # Whisper: audio -> transcript
+├── nlp.py            # spaCy: keywords, themes, sentiment
+├── audio.py          # librosa: tempo, energy, key, valence
+├── merge.py          # merge NLP + audio -> portrait dict
+├── portrait.py      # matplotlib: visual portrait generator
 │
 ├── requirements.txt
 └── README.md
