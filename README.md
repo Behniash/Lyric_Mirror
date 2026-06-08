@@ -11,7 +11,7 @@
 
 <br/>
 
-![portrait example](docs/portrait.png)
+![portrait example](docs/D:\lyric_mirror\portrait.png)
 
 <br/>
 
