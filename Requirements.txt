@@ -1,0 +1,13 @@
+openai-whisper
+torch
+torchaudio
+numpy
+spacy
+transformers
+librosa
+soundfile
+matplotlib
+seaborn
+wordcloud
+pandas
+gradio

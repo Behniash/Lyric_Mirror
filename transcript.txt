@@ -1,0 +1,38 @@
+Detected language: en
+==================================================
+
+Our My heart, weighs many more time and I'm East-Face. I'm living on my head, maybe. I wake up one day to notice that all my life was just a dream. And maybe I'll be better and rough without you. You left me here with all my thought. I light a zillion waves, all walking million miles. I'd sleep in broken glass, just not to lose your smile. I shriek for you and mount the world, collecting moments of ourselves. To bring you music, to bring you joy. I wish I'd be the little boy where we set silence. You promised me why you stepped distance so close to me. Why is your violence still outing? Why are your eyes avoiding me? Let me say thank you, for all that you have given me. Thank you for everything you've done. Forgive me for saying one last thing I miss you. And I hope you hear this song. I'd shriek for you and mount the world, collecting moments of ourselves. To bring you music, to bring you joy. I wish I'd be the little boy I'm dying for you. Can't you say I'm lying for you? So be free, I hunger for you Cause I can't hate, I'd vanish for you In the flames We're the only ones who can't help you So be free I'm the only one who can't help you Cause I'm the only one who can't help you You're the only one who can't help you
+
+==================================================
+Timed segments:
+
+[0.0s -> 24.26s]  Our
+[24.26s -> 34.26s]  My heart, weighs many more time and I'm East-Face.
+[34.26s -> 40.26s]  I'm living on my head, maybe.
+[40.26s -> 50.26s]  I wake up one day to notice that all my life was just a dream.
+[51.26s -> 57.26s]  And maybe I'll be better and rough without you.
+[57.26s -> 63.26s]  You left me here with all my thought.
+[63.26s -> 69.26s]  I light a zillion waves, all walking million miles.
+[69.26s -> 77.26s]  I'd sleep in broken glass, just not to lose your smile.
+[78.26s -> 90.26s]  I shriek for you and mount the world, collecting moments of ourselves.
+[90.26s -> 97.26s]  To bring you music, to bring you joy.
+[97.26s -> 106.26s]  I wish I'd be the little boy where we set silence.
+[107.26s -> 116.26s]  You promised me why you stepped distance so close to me.
+[116.26s -> 122.26s]  Why is your violence still outing?
+[122.26s -> 129.26s]  Why are your eyes avoiding me?
+[137.26s -> 159.26s]  Let me say thank you, for all that you have given me.
+[160.26s -> 166.26s]  Thank you for everything you've done.
+[166.26s -> 175.26s]  Forgive me for saying one last thing I miss you.
+[175.26s -> 180.26s]  And I hope you hear this song.
+[180.26s -> 193.26s]  I'd shriek for you and mount the world, collecting moments of ourselves.
+[193.26s -> 200.26s]  To bring you music, to bring you joy.
+[200.26s -> 209.26s]  I wish I'd be the little boy I'm dying for you.
+[209.26s -> 215.26s]  Can't you say I'm lying for you?
+[215.26s -> 221.26s]  So be free, I hunger for you
+[221.26s -> 228.26s]  Cause I can't hate, I'd vanish for you
+[228.26s -> 232.26s]  In the flames
+[239.26s -> 244.26s]  We're the only ones who can't help you
+[244.26s -> 247.26s]  So be free
+[247.26s -> 252.26s]  I'm the only one who can't help you
+[252.26s -> 257.26s]  Cause I'm the only one who can't help you
+[257.26s -> 262.26s]  You're the only one who can't help you
