@@ -8,7 +8,6 @@
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/openai/whisper)
 [![Gradio](https://img.shields.io/badge/Gradio-6.0-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://gradio.app)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-[![HuggingFace](https://img.shields.io/badge/Live%20Demo-HuggingFace%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/YOUR_USERNAME/lyric-mirror)
 
 <br/>
 
