@@ -83,25 +83,6 @@ Open `http://127.0.0.1:7860` in your browser, upload any mp3 or wav file, and cl
 
 ---
 
-## Project Structure
-
-```
-lyric_mirror/
-│
-├── app.py                  # Gradio UI — start here
-│
-├── transcribe.py     # Whisper: audio -> transcript
-├── nlp.py            # spaCy: keywords, themes, sentiment
-├── audio.py          # librosa: tempo, energy, key, valence
-├── merge.py          # merge NLP + audio -> portrait dict
-├── portrait.py      # matplotlib: visual portrait generator
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Tech Stack
 
 <table>
